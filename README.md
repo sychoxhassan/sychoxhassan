@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.jpg" height="70" alt="My Logo" />
+  <img src="./assets/logo.jpg" height="220" alt="My Logo" />
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+Hassan's+Digital+Universe+🚀;Student+++Learner+++Future+Tech+Innovator+💡;Building+Dreams+One+Line+at+a+Time+⚡" alt="Typing SVG" />
