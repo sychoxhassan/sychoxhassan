@@ -78,12 +78,10 @@
 
 ## 🌌 Current Missions & Objectives
 
-<div align="center">
-
 ```mermaid
 mindmap
   root((HASSAN'S JOURNEY))
-   📚 Learning
+    📚 Learning
       📖 Reading
       🧪 Experimenting
     💻 CODE
@@ -99,7 +97,6 @@ mindmap
       💪 Dreams
       ⭐ Success
 ```
-
 </div>
 
 ### 🎯 Active Quests:
