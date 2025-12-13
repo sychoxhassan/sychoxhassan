@@ -132,7 +132,7 @@ mindmap
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sychoxhassan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://metrics.lecoq.io/sychoxhassan?template=classic&achievements=1&achievements.display=compact&theme=tokyonight" />
 </p>
 
 ---
